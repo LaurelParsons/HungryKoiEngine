@@ -1,22 +1,25 @@
 # Hungry Koi Engine
+
+## Overview
 A small, C++ based game engine designed for feeding-frenzy type games. Completed as a final for a building game engines class, this is a component based engine with a smart resource management system. 
 
 Also includes a python GUI level editor, allowing users to design and output scene files. Pybind integration allows the engine to call these Python files. 
 
 **Project Website**: https://lparsons443.wixsite.com/laurel-parsons/hungrykoiengine
+(Video demo and engine diagram)
 
 ## Compilation Instructions
 
-To compile, navigate to the finalproject/Engine folder and use the following command:
- $ python3 linuxbuild.py
-Then to run: 
+To compile, navigate to the finalproject/Engine folder and use the following command:   
+ $ python3 linuxbuild.py   
+Then to run:   
 $ python3 HungryKoi.py ./mygameengine.so ./../scene1.json
 
-To run the level builder, navigate to finalproject/LevelBuilder and run
-$ python main.py
+To run the level builder, navigate to finalproject/LevelBuilder and run   
+$ python main.py   
 resulting json files will be saved in the /finalproject folder 
 
-### ./Directory Organization
+## Directory Organization
 
 - assets
     - Art assets
