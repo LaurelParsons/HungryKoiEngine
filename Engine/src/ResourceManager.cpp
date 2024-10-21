@@ -1,0 +1,10 @@
+#include "ResourceManager.hpp"
+
+std::shared_ptr<SDL_Texture> make_shared_texture(SDL_Renderer* renderer, SDL_Surface* pixels) {
+	SDL_Texture* texture = SDL_CreateTextureFromSurface(renderer, pixels);
+	if (nullptr == texture) {
+		SDL_Log("Could not load texture from surface");
+	}
+
+	return std::shared_ptr<SDL_Texture>(texture, TextureFunctorDeleter());
+}

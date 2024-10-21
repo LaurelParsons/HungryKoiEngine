@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['gameentity_0',['GameEntity',['../structGameEntity.html#a43e4841110c2de7e207d25cd31573616',1,'GameEntity']]],
+  ['getangle_1',['GetAngle',['../structTransformComponent.html#ac5574027445317d68f78fa89e987defa',1,'TransformComponent']]],
+  ['getchildgameentityatindex_2',['GetChildGameEntityAtIndex',['../structGameEntity.html#af5bf971ef60267f53c00e4429784a424',1,'GameEntity']]],
+  ['getcomponent_3',['GetComponent',['../structGameEntity.html#af8b08e1044a1e4edc387f0066e2f2ab8',1,'GameEntity']]],
+  ['getgameentity_4',['getGameEntity',['../structComponent.html#a8a7fbc5ed86fc80c19dd54c846217db2',1,'Component']]],
+  ['geth_5',['GetH',['../structCollider2DComponent.html#a3b814e481079aee4e9021566be98a46a',1,'Collider2DComponent::GetH()'],['../structTransformComponent.html#aec4ba1c40d8071ff463a2a697c2984d6',1,'TransformComponent::GetH()']]],
+  ['getplayerposition_6',['GetPlayerPosition',['../structScene.html#af8ad39714cfac8fa4d164cc77e2a5272',1,'Scene']]],
+  ['getposition_7',['GetPosition',['../structTransformComponent.html#aeef0f06a279a2e99cef54391a3bdbda4',1,'TransformComponent']]],
+  ['getrectangle_8',['GetRectangle',['../structCollider2DComponent.html#a1dff2ca9996582f00226b53f3ce8f2e9',1,'Collider2DComponent::GetRectangle()'],['../structTransformComponent.html#a992e0cbffe237badd34641f1e82cb1b2',1,'TransformComponent::GetRectangle()']]],
+  ['getscore_9',['GetScore',['../structGameEntity.html#a388b0c73a9b03614553591ddf177d286',1,'GameEntity']]],
+  ['getthisptr_10',['GetThisPtr',['../structGameEntity.html#a7946bc022c5679c01dd20f12b117651e',1,'GameEntity']]],
+  ['gettransform_11',['GetTransform',['../structGameEntity.html#a6eb050e651a68dd7fe17ad85f0066397',1,'GameEntity']]],
+  ['gettype_12',['GetType',['../structCollider2DComponent.html#ad8a2c2cc865bb336c1b6817f3726f569',1,'Collider2DComponent::GetType()'],['../structComponent.html#a2e87d60cd7150786e51bfcda7129ed90',1,'Component::GetType()'],['../structInputComponent.html#a3de33e654abe7a2cee6f049c6f26a3ef',1,'InputComponent::GetType()'],['../structTextureComponent.html#a130152edf8eb87d06f4673b129d0cdd7',1,'TextureComponent::GetType()'],['../structTransformComponent.html#a4d30c255d54af02fc53774412b488014',1,'TransformComponent::GetType()']]],
+  ['getw_13',['GetW',['../structCollider2DComponent.html#a475ada8c91a7a88a85febe396adddd36',1,'Collider2DComponent::GetW()'],['../structTransformComponent.html#ae5501067c1a954f5ed3b0cf75aadff20',1,'TransformComponent::GetW()']]],
+  ['getx_14',['GetX',['../structCollider2DComponent.html#a08ee450fff2ef46dcff7af64c1855375',1,'Collider2DComponent::GetX()'],['../structTransformComponent.html#a7633c349e5a0ce8299629afcec126df6',1,'TransformComponent::GetX()']]],
+  ['gety_15',['GetY',['../structCollider2DComponent.html#adc56539db5739e308d72dfa45b4c6415',1,'Collider2DComponent::GetY()'],['../structTransformComponent.html#a800382827a326410d497a2c478426c72',1,'TransformComponent::GetY()']]]
+];
